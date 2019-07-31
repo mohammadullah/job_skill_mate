@@ -1,5 +1,8 @@
 # Skills Job Advisor
 
+This is a Project work of Big Data Programming II (SFU, CMPT 733) by Btara Truhandarien, Mohammad W. Ullah, Bhuvan Chopra and Grace Kingsly. 
+
+
 # Datasets, raw findings and additional data
 You can find them in this [Google Drive](https://drive.google.com/drive/u/0/folders/1-glxM4PAj-fo3U4Dt2O3ro3RwTeVj8_V) folder (request permission if needed)
 
