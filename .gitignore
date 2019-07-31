@@ -1,0 +1,41 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+.vscode
+
+# in case scraper is put inside project
+indeed-resume-scraper
+
+# no raw json files
+*.json
+
+dataset
+
+# venv things
+lib64
+bin
+
+include
+lib/python3.6
+pyvenv.cfg
+
+# doc2vec
+doc2vec_data
+doc2vec_model
+
+# er_results
+er_resume*
+er_titles*
+
+# findings folder
+findings
+
+# ignore potential venv environments
+venv
+.env
+
+# onet data
+onet
+
+# tokenization of job details for doc2vec
+tokenized_job_details_for_doc2vec
